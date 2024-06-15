@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\SynologyDrive\AnirudhProjects\UKEPWeb_MVCCore\Publish</_PublishTargetUrl>
+    <History>True|2024-06-14T07:24:18.1049995Z;True|2024-05-02T12:30:45.1718171+05:30;</History>
+  </PropertyGroup>
+</Project>
